@@ -1,4 +1,6 @@
 # Bowling
 
-Potential Coordinates: 43.044999, -85.689387
+Potential Coordinates: 43.044999, -85.689387 Bowling Alley
+
+#Entered
 
